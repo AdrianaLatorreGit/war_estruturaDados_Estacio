@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+// Nível NOVATO
+
 // Definindo a estrutura Territorio
 struct Territorio
 {
