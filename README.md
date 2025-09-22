@@ -9,3 +9,5 @@ Este exercício serve como conclusão prática da matéria de **Estrutura de Dad
 -   **Escopo de variáveis**
 -   Passagem de parâmetros **por valor**
 -   Passagem de parâmetros **por referência**
+
+<img width="424" height="733" alt="Captura de tela de 2025-09-22 17-30-23" src="https://github.com/user-attachments/assets/15771766-3899-465c-925d-b366da886582" />
