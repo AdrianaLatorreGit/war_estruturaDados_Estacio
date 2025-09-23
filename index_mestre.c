@@ -285,5 +285,6 @@ void liberarMemoria(Territorio *mapa, Jogador *jogadores, int qtdJogadores)
   {
     free(jogadores[i].missao);
   }
+
   free(jogadores);
 }
